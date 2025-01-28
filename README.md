@@ -6,7 +6,7 @@ Det bør nevnet at det her benyttes en gammel og utgått versjon av .net(bør op
 
 ### Krav
 - [Docker] (https://www.docker.com/get-started)
-- [.NET 9.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+- [.NET 9.0 SDK] (https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 ### Klone prosjektet
 git clonde
